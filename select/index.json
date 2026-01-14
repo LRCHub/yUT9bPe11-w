@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "スキライズム",
+  "base_artist": "frederic",
+  "createdAt": "2026-01-14T03:41:01.254040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スキライズム",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/01_スキライズム_frederic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スキライズム",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/02_スキライズム_frederic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スキライズム",
+      "artist": "frederic",
+      "has_synced": false,
+      "path": "select/pl_01_スキライズム_frederic.txt"
+    }
+  ]
+}
